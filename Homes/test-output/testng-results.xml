@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Chrome Browser is Invoked]]>
+    </line>
+    <line>
+      <![CDATA[Search Box is Located]]>
+    </line>
+    <line>
+      <![CDATA[Value Entered in Search Field is :Auckland]]>
+    </line>
+    <line>
+      <![CDATA[Value from the Search Drop down is selected ]]>
+    </line>
+    <line>
+      <![CDATA[Search Result Page Navigation is Successful]]>
+    </line>
+    <line>
+      <![CDATA[Chrome Browser is Invoked]]>
+    </line>
+    <line>
+      <![CDATA[Search Box is Located]]>
+    </line>
+    <line>
+      <![CDATA[Value Entered in Search Field is :Petone]]>
+    </line>
+    <line>
+      <![CDATA[Value from the Search Drop down is selected ]]>
+    </line>
+    <line>
+      <![CDATA[Search Result Page Navigation is Successful]]>
+    </line>
+    <line>
+      <![CDATA[Chrome Browser is Invoked]]>
+    </line>
+    <line>
+      <![CDATA[Search Box is Located]]>
+    </line>
+    <line>
+      <![CDATA[Value Entered in Search Field is :45 Puru Crescent]]>
+    </line>
+    <line>
+      <![CDATA[Value from the Search Drop down is selected ]]>
+    </line>
+    <line>
+      <![CDATA[Search Result Page Navigation is Successful]]>
+    </line>
+    <line>
+      <![CDATA[Chrome Browser is Invoked]]>
+    </line>
+    <line>
+      <![CDATA[Search Box is Located]]>
+    </line>
+    <line>
+      <![CDATA[Value Entered in Search Field is :Auckland]]>
+    </line>
+    <line>
+      <![CDATA[Value from the Search Drop down is selected ]]>
+    </line>
+    <line>
+      <![CDATA[Search Result Page Navigation is Successful]]>
+    </line>
+    <line>
+      <![CDATA[Chrome Browser is Invoked]]>
+    </line>
+    <line>
+      <![CDATA[Search Box is Located]]>
+    </line>
+    <line>
+      <![CDATA[Value Entered in Search Field is :Petone]]>
+    </line>
+    <line>
+      <![CDATA[Value from the Search Drop down is selected ]]>
+    </line>
+    <line>
+      <![CDATA[Search Result Page Navigation is Successful]]>
+    </line>
+    <line>
+      <![CDATA[Chrome Browser is Invoked]]>
+    </line>
+    <line>
+      <![CDATA[Search Box is Located]]>
+    </line>
+    <line>
+      <![CDATA[Value Entered in Search Field is :45 Puru Crescent]]>
+    </line>
+    <line>
+      <![CDATA[Value from the Search Drop down is selected ]]>
+    </line>
+    <line>
+      <![CDATA[Search Result Page Navigation is Successful]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-05-14T16:41:55 NZST" name="HomesStating" finished-at="2021-05-14T16:45:47 NZST" duration-ms="231492">
+    <groups>
+    </groups>
+    <test started-at="2021-05-14T16:41:55 NZST" name="PropertySearchTest" finished-at="2021-05-14T16:45:47 NZST" duration-ms="231492">
+      <class name="TestClass.PropertySearch">
+        <test-method is-config="true" signature="commonSetup()[pri:0, instance:TestClass.PropertySearch@69e153c5]" started-at="2021-05-14T16:42:00 NZST" name="commonSetup" finished-at="2021-05-14T16:42:10 NZST" duration-ms="10240" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome Browser is Invoked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- commonSetup -->
+        <test-method signature="navigationTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestClass.PropertySearch@69e153c5]" started-at="2021-05-14T16:42:10 NZST" name="navigationTest" data-provider="getData" finished-at="2021-05-14T16:43:08 NZST" duration-ms="58324" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Auckland]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://homes.co.nz]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Auckland]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Search Box is Located]]>
+            </line>
+            <line>
+              <![CDATA[Value Entered in Search Field is :Auckland]]>
+            </line>
+            <line>
+              <![CDATA[Value from the Search Drop down is selected ]]>
+            </line>
+            <line>
+              <![CDATA[Search Result Page Navigation is Successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigationTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestClass.PropertySearch@69e153c5]" started-at="2021-05-14T16:43:08 NZST" name="tearDown" finished-at="2021-05-14T16:43:11 NZST" duration-ms="2376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="commonSetup()[pri:0, instance:TestClass.PropertySearch@69e153c5]" started-at="2021-05-14T16:43:11 NZST" name="commonSetup" finished-at="2021-05-14T16:43:14 NZST" duration-ms="3440" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome Browser is Invoked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- commonSetup -->
+        <test-method signature="navigationTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestClass.PropertySearch@69e153c5]" started-at="2021-05-14T16:43:14 NZST" name="navigationTest" data-provider="getData" finished-at="2021-05-14T16:43:40 NZST" duration-ms="25297" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Petone]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://homes.co.nz]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Petone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Search Box is Located]]>
+            </line>
+            <line>
+              <![CDATA[Value Entered in Search Field is :Petone]]>
+            </line>
+            <line>
+              <![CDATA[Value from the Search Drop down is selected ]]>
+            </line>
+            <line>
+              <![CDATA[Search Result Page Navigation is Successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigationTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestClass.PropertySearch@69e153c5]" started-at="2021-05-14T16:43:40 NZST" name="tearDown" finished-at="2021-05-14T16:43:41 NZST" duration-ms="1445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="commonSetup()[pri:0, instance:TestClass.PropertySearch@69e153c5]" started-at="2021-05-14T16:43:41 NZST" name="commonSetup" finished-at="2021-05-14T16:43:44 NZST" duration-ms="3213" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome Browser is Invoked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- commonSetup -->
+        <test-method signature="navigationTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestClass.PropertySearch@69e153c5]" started-at="2021-05-14T16:43:44 NZST" name="navigationTest" data-provider="getData" finished-at="2021-05-14T16:44:17 NZST" duration-ms="32811" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[45 Puru Crescent]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://homes.co.nz]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[45 Puru Crescent]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Search Box is Located]]>
+            </line>
+            <line>
+              <![CDATA[Value Entered in Search Field is :45 Puru Crescent]]>
+            </line>
+            <line>
+              <![CDATA[Value from the Search Drop down is selected ]]>
+            </line>
+            <line>
+              <![CDATA[Search Result Page Navigation is Successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigationTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestClass.PropertySearch@69e153c5]" started-at="2021-05-14T16:44:17 NZST" name="tearDown" finished-at="2021-05-14T16:44:19 NZST" duration-ms="1598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="commonSetup()[pri:0, instance:TestClass.PropertySearch@69e153c5]" started-at="2021-05-14T16:44:19 NZST" name="commonSetup" finished-at="2021-05-14T16:44:22 NZST" duration-ms="3255" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome Browser is Invoked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- commonSetup -->
+        <test-method signature="navigationTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestClass.PropertySearch@69e153c5]" started-at="2021-05-14T16:44:22 NZST" name="navigationTest" data-provider="getData" finished-at="2021-05-14T16:44:43 NZST" duration-ms="21015" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Auckland]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://ketu.homes-test.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Auckland]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Search Box is Located]]>
+            </line>
+            <line>
+              <![CDATA[Value Entered in Search Field is :Auckland]]>
+            </line>
+            <line>
+              <![CDATA[Value from the Search Drop down is selected ]]>
+            </line>
+            <line>
+              <![CDATA[Search Result Page Navigation is Successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigationTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestClass.PropertySearch@69e153c5]" started-at="2021-05-14T16:44:43 NZST" name="tearDown" finished-at="2021-05-14T16:44:45 NZST" duration-ms="1744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="commonSetup()[pri:0, instance:TestClass.PropertySearch@69e153c5]" started-at="2021-05-14T16:44:45 NZST" name="commonSetup" finished-at="2021-05-14T16:44:48 NZST" duration-ms="3479" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome Browser is Invoked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- commonSetup -->
+        <test-method signature="navigationTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestClass.PropertySearch@69e153c5]" started-at="2021-05-14T16:44:48 NZST" name="navigationTest" data-provider="getData" finished-at="2021-05-14T16:45:14 NZST" duration-ms="25809" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Petone]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://ketu.homes-test.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Petone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Search Box is Located]]>
+            </line>
+            <line>
+              <![CDATA[Value Entered in Search Field is :Petone]]>
+            </line>
+            <line>
+              <![CDATA[Value from the Search Drop down is selected ]]>
+            </line>
+            <line>
+              <![CDATA[Search Result Page Navigation is Successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigationTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestClass.PropertySearch@69e153c5]" started-at="2021-05-14T16:45:14 NZST" name="tearDown" finished-at="2021-05-14T16:45:16 NZST" duration-ms="2159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="commonSetup()[pri:0, instance:TestClass.PropertySearch@69e153c5]" started-at="2021-05-14T16:45:16 NZST" name="commonSetup" finished-at="2021-05-14T16:45:20 NZST" duration-ms="3478" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome Browser is Invoked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- commonSetup -->
+        <test-method signature="navigationTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestClass.PropertySearch@69e153c5]" started-at="2021-05-14T16:45:20 NZST" name="navigationTest" data-provider="getData" finished-at="2021-05-14T16:45:45 NZST" duration-ms="25143" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[45 Puru Crescent]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://ketu.homes-test.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[45 Puru Crescent]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Search Box is Located]]>
+            </line>
+            <line>
+              <![CDATA[Value Entered in Search Field is :45 Puru Crescent]]>
+            </line>
+            <line>
+              <![CDATA[Value from the Search Drop down is selected ]]>
+            </line>
+            <line>
+              <![CDATA[Search Result Page Navigation is Successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigationTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestClass.PropertySearch@69e153c5]" started-at="2021-05-14T16:45:45 NZST" name="tearDown" finished-at="2021-05-14T16:45:47 NZST" duration-ms="2112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestClass.PropertySearch -->
+    </test> <!-- PropertySearchTest -->
+  </suite> <!-- HomesStating -->
+</testng-results>

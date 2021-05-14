@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PropertySearchTest"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="188.399">
+  <properties />
+  
+  
+            <testcase name="navigationTest" time="21.015" classname="TestClass.PropertySearch" />
+                <testcase name="navigationTest" time="25.809" classname="TestClass.PropertySearch" />
+                <testcase name="navigationTest" time="32.811" classname="TestClass.PropertySearch" />
+                <testcase name="navigationTest" time="25.143" classname="TestClass.PropertySearch" />
+                <testcase name="navigationTest" time="58.324" classname="TestClass.PropertySearch" />
+                <testcase name="navigationTest" time="25.297" classname="TestClass.PropertySearch" />
+      
+</testsuite>
